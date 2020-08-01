@@ -1,9 +1,4 @@
-
-
-
 # Hi Im Marco Luis Navez 👋
-
-
 
 - :blue_book: I’m currently studying on Tecnológico De México Campus Zacatepec
 - :computer: I’m a Newbie Front-End Developer.
