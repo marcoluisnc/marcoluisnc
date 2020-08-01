@@ -14,4 +14,4 @@
 - :computer: I’m currently learning Javascript,ReactJS y NodeJS 
 - You can catch me on:
 	- [Twitter](https://twitter.com/Marcoluisnvz)
-![](https://github.com/marcoluisnc/marcoluisnc/2.jpg)	
+
