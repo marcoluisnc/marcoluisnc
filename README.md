@@ -12,6 +12,8 @@
 	- Responsive Web Design	
 	- Javascript	
 - :computer: I’m currently learning Javascript,ReactJS y NodeJS 
+- Im helping my friends to become developers too.
+- Future MERN stack.
 - You can catch me on:
 	- [Twitter](https://twitter.com/Marcoluisnvz)
 
