@@ -4,8 +4,7 @@
 - :computer: I’m a Newbie Front-End Developer.
 	- HTML5	
 	- CSS3	
-	- Responsive Web Design	
-	- Javascript	
+	- Responsive Web Design		
 - :notebook: I’m currently learning Javascript,ReactJS y NodeJS 
 - :two_men_holding_hands: Im helping my friends to become developers too.
 - :white_check_mark: Future MERN stack.
